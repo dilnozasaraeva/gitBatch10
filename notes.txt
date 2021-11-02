@@ -1,5 +1,3 @@
-Recap -
-
 What is framework?
 It gives us an organized folder structure to follow while writing the code.
 
